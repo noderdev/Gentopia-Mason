@@ -68,6 +68,11 @@ To clone the job finder agent simple run:
 ```
 The available functions for this agent are written in under its configuration file`./GentPool/gentpool/pool/<your_agent_name>/agent.yaml` and the implementation of these tools can seen inside [job_finder.py].
 
+Here is a sample prompt:
+```
+Can you read my resume SAURAV_SINGH_Resume_2021.PDF and find the 2 most suitable jobs based on my resume.
+```
+
 ## Remove an Agent
 Sometimes an agent can upset you. To wipe it out completely,
 ```
