@@ -9,3 +9,8 @@ from .vanilla_template import *
 from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
+from .MyAgent import *
+from .MyScholarAgent import *
+from .SampleScholarAgent import *
+from .MyJobFinder import *
+from .MyJobFinder import *

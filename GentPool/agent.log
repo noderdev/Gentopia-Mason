@@ -1,0 +1,134 @@
+INFO:root:Creating Config from file: ./gentpool/pool/MyJobFinder/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/MyJobFinder/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/MyJobFinder/agent.yaml
+INFO:root:--------------------
+INFO:root:[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:MyJobFinder is thinking...
+INFO:root:Done
+INFO:root:[blue]MyJobFinder: 
+INFO:root:{"name":"local_pdf_reader", "arguments":{
+  "pathToPDF": "SAURAV_SINGH_Resume_2021.PDF"
+}}
+
+INFO:root:Calling function: local_pdf_reader ...
+WARNING:PyPDF2._reader:Previous trailer can not be read ("'NumberObject' object is not subscriptable",)
+WARNING:PyPDF2._reader:Object ID 5,0 ref repaired
+WARNING:PyPDF2._reader:Object 2 0 found
+WARNING:PyPDF2._reader:Object ID 7,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 17,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 21,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 13,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 22,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 12,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 16,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 15,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 10,0 ref repaired
+WARNING:PyPDF2._reader:Object ID 9,0 ref repaired
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:Software Engineer
+Work History
+EducationContact
+SkillsSAURAV SINGH
+Skilled in directing development with performance-oriented approach and have experience in working in dynamic
+environment. Interested in working in an environment where I can contribute to the fullest and where the scope of
+learning is high.
+Software Engineer
+Thales ,Noida , UP
+Contributed on developing UI and back-end for
+different services for an Onboarding portal (Serverless)
+which is used to onboard banks for Card Digitization
+service provided by Thales. Worked on AWS API
+Gateway for defining the API's through swagger API
+definition. Worked on AWS Cognito for user
+authentication and authorization . Worked on AWS
+lambdas for implementing the backend for different
+micro-services. Also had exposure to cloud formation
+for provisioning AWS resources.
+Coordinated with cross-functional development team
+members to analyze potential system solutions based
+on client requirements.
+Currently working on Mobile Gateway Component
+which is the heart and core component of the card
+digitization service provided by Thales .Contributing by
+implementing the different Payment Solutions like VISA ,
+MasterCard etc.. on Mobile Gateway along with
+support.2019-06  -
+Current
+Software Engineer
+Nirvana Solutions ,Gurgaon , Haryana
+Contributed by optimizing the SQL server queries
+running behind SSRS reports in the Portfolio
+Management service for the customers.
+Responsible for maintenance of the web application
+build in Asp.net MVC, from layout to functionality and
+according to a client's specifications.
+Worked on developing SSRS reports for different
+customers based upon different use cases.2018-07  -
+2019-06
+Btech : Information Technology
+Jaypee Institute Of Information Technology  - Noida, UP2014-08  -
+2018-06Address
+New Delhi ,DL, 110001
+Phone
+7042824631
+E-mail
+singhsaurav538@gmail.com
+Algorithms ,Data Structures
+and Problem solving
+AWS Serverless, AWS
+C++ ,Nodejs
+Mongodb , SQL server
+Vuejs , C#
+System Design
+INFO:root:--------------------
+INFO:root:MyJobFinder is thinking...
+INFO:root:Done
+INFO:root:[blue]MyJobFinder: 
+INFO:root:{"name":"job_finder", "arguments":{
+"jobTitle": "Software Engineer",
+"jobLocation": "New Delhi"
+}}
+
+INFO:root:Calling function: job_finder ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:&nbsp;...• Design, implement, and trouble-shoot scalable and reusable <b>software/</b>API systems: n-tier and cloud-based systems. 
+• Actively support...&nbsp;&nbsp;...between external vendors and internal product, business, <b>engineering,</b> and design teams. 
+• Provide (technical) leadership to build...&nbsp;
+&nbsp;...applications in the cloud.   
+ Knowledge of containerization and orchestration tools like Docker and Kubernetes is a plus.   
+ <b>Software </b>testing (PHPUnit, PHPSpec, Behat).   
+ Creative and efficient problem solver.   
+ Version control using  Git  .   
+ Excellent communication...&nbsp;
+&nbsp;.... We’re fueled by a passion to provide innovative solutions and driven to connect the world in meaningful ways. 
+
+ The Lead <b>Software Engineer </b>plays a key role in delivery of ServiceNow solutions and driving strategic transformational change of ABS Procurement and logistic...&nbsp;
+&nbsp;...effective solutions, and actively participating in all stages of the <b>software </b>development life cycle. 
+
+ Key Responsibilities:...&nbsp;&nbsp;...~ Bachelor's or Master's degree in Computer Science, Software <b>Engineering,</b> or a related field. 
+~6 to 10 years of proven experience as...&nbsp;
+&nbsp;...latest technologies and trends in Raspberry Pi and mobile app development.  
+
+  Requirements:  
+  
+#5-10 years of experience in <b>software </b>development.   
+# Proficiency in Raspberry Pi programming and hardware integration.   
+# Strong knowledge of live video...&nbsp;
+
+INFO:root:--------------------
+INFO:root:MyJobFinder is thinking...
+INFO:root:Done
+INFO:root:[blue]MyJobFinder: 
+INFO:root:Based on your resume, here are the two most suitable jobs for you:
+
+1. **Software Engineer** at a company that designs, implements, and troubleshoots scalable and reusable software/API systems. They are looking for someone who can provide technical leadership and build relationships between external vendors and internal product, business, engineering, and design teams.
+
+2. **Lead Software Engineer** at a company that is driven to connect the world in meaningful ways. The role plays a key role in the delivery of ServiceNow solutions and driving strategic transformational change of ABS Procurement and logistic.
+
+Please let me know if you need more information about these jobs.
+INFO:root:Done
+INFO:root:[green]User: 

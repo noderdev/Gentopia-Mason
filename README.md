@@ -58,6 +58,15 @@ The available functions to the scholar agent have been listed in its configurati
 
 Now, you are all set to query this scholar agent for the latest papers by certain authors, the summary of a certain paper, paper citations, etc.
 
+## Implementing JobFinder agent
+The job finder agent template is created to search the most suitable jobs based on your resume. We need to give a local path to your resume in the prompt and ask the agent to search the k most suitable jobs. 
+
+We are using jooble's job search api to allow agent to perform the job search and match job descriptions based on the resume.
+To clone the job finder agent simple run:
+```
+./clone_agent jobfinder <your_agent_name> 
+```
+The available functions for this agent are written in under its configuration file`./GentPool/gentpool/pool/<your_agent_name>/agent.yaml` and the implementation of these tools can seen inside [job_finder.py].
 
 ## Remove an Agent
 Sometimes an agent can upset you. To wipe it out completely,
